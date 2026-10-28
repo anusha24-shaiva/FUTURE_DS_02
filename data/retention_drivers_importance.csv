@@ -1,0 +1,11 @@
+Feature,Importance,ImportancePct
+FeatureAdoptionScore,0.27952466737701903,28.0
+ContractType_Month-to-Month,0.24760145167494513,24.8
+OnboardingCompleted_Yes,0.20258378699195165,20.3
+MonthlyActiveUsageHours,0.10740689512908912,10.7
+NPSScore,0.06214653310929168,6.2
+PlanTier_Starter,0.04338946499074719,4.3
+AvgResolutionTimeHours,0.03653262138858822,3.7
+SupportTicketsCount,0.010703462461448513,1.1
+PlanTier_Professional,0.007845230993845861,0.8
+DiscountsApplied_Yes,0.0022658858830737474,0.2
